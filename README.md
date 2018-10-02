@@ -38,7 +38,7 @@ Nach erfolgreicher Installation von Anaconda ist Jupyter installiert!
 #### Windows
 
 - Windows Suche: Anaconda Prompt
-- Starten von Anaconda Prompt bzw. Jupyter Notebook aus dem Untermenue
+- Starten von Anaconda Prompt
 - In das Verzeichnis, wo sich das Repository mit den Jupyter Notebooks befindet, navigieren 
 
 Befehl in Anaconda Prompt:

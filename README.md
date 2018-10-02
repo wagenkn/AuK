@@ -9,7 +9,7 @@
 
 # Algorithmen und Komplexität
 
-Material, welches im Rahmen des Moduls **Algorithmen und Komplexität** an der Hochschule Zittau/Görlitz verwendet wird.
+XXXXXMaterial, welches im Rahmen des Moduls **Algorithmen und Komplexität** an der Hochschule Zittau/Görlitz verwendet wird.
 
 Dieses Modul soll in die Entwicklung und Analyse von Algorithmen einführen. Zudem lernen Sie wichtige Datenstrukturen kennen, die für das Lösen von algorithmischen Problemen wichtig sind.
 

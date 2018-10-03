@@ -34,7 +34,7 @@ Laden Sie die komplette [Zip-Datei](https://github.com/wagenkn/AuK/archive/maste
 ### Anaconda Installation
 
 Es ist empfehlenswert Jupyter zusammen mit der [Anaconda Distribution](https://www.anaconda.com/download/) zu 
-installieren, da es außer Python selbst und Jupyter noch weitere wichtige Pakete zum wissenschaftlichen Rechnen, wie 
+installieren, da sie außer Python selbst und Jupyter noch weitere wichtige Pakete zum wissenschaftlichen Rechnen, wie 
 [NumPy](http://www.numpy.org/) oder [Pandas](https://pandas.pydata.org/), beinhaltet.
 
 Nach erfolgreicher Installation von Anaconda steht auch Jupyter bereit!

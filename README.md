@@ -15,7 +15,7 @@ Dieses Modul soll in die Entwicklung und Analyse von Algorithmen einführen. Zud
 
 Für alle 14 Kapitel, gibt es je ein JupyterNotebook, mit dem benötigte theoretische Grundlagen erläutert und Beispiele in Form von praktischen Algorithmen und Datenstrukturen gezeigt und implementiert werden. Haben Sie sich durch ein Kapitel durchgearbeitet, so stehen Übungsaufgaben bereit, die Sie lösen und anschließend mit den Musterlösungen vergleichen können.
 
-Die Notebooks wurden von zwei Studierenden (Herrn Weiß, Bachelorstudent, und Herrn Zücker, Masterstudent) mit sehr guten Studienleistungen auch auf der Basis vorhandener Materialien entworfen und anschließend von Prof. Wagenknecht überarbeitet. Uns war es sehr wichtig, dass "die Sprache der Studierenden" verwendet wird, um einen attraktiveren Zugang zu den Inhalten zu den mathematisch-algorithmischen Inhalten zu gewährleisten.
+Die Notebooks wurden von zwei Studierenden (Herrn Weiß, Bachelorstudent, und Herrn Zücker, Masterstudent) mit sehr guten Studienleistungen auch auf der Basis vorhandener Materialien entworfen und anschließend von Prof. Wagenknecht überarbeitet. Uns war es sehr wichtig, dass "die Sprache der Studierenden" verwendet wird, um einen attraktiveren Zugang zu den mathematisch-algorithmischen Inhalten zu gewährleisten.
 
 # Installation
 

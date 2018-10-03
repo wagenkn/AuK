@@ -17,6 +17,8 @@ Für alle 14 Kapitel, gibt es je ein JupyterNotebook, mit dem benötigte theoret
 
 Die Notebooks wurden von zwei Studierenden (Herrn Weiß, Bachelorstudent, und Herrn Zücker, Masterstudent) mit sehr guten Studienleistungen auch auf der Basis vorhandener Materialien entworfen und anschließend von Prof. Wagenknecht überarbeitet. Uns war es sehr wichtig, dass "die Sprache der Studierenden" verwendet wird, um einen attraktiveren Zugang zu den mathematisch-algorithmischen Inhalten zu gewährleisten.
 
+Beachten Sie, dass es zu Verfälschungen der Interpretation der JupyterNotebooks in Github kommen kann. Die gewünschte Qualität stellt sich erst ein, wenn Sie die Notebooks unter Jupyter lokal verwenden und ggf. bearbeiten.
+
 <!-- # Installation -->
 
  <!-- ### Repository Checkout

@@ -28,7 +28,7 @@ git clone https://github.com/hszg-algodat/algorithmen-und-komplexitaet
 
 ### JupyterNotebooks herunterladen
 
-Laden Sie die komplette Zip-Datei herunter und expandieren Sie sie in Ihr lokales Verzeichnis ....  
+Laden Sie die komplette Zip-Datei herunter und expandieren Sie sie in ein geeignetes lokales Verzeichnis.
 
 
 ### Anaconda Installation

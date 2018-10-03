@@ -9,11 +9,13 @@
 
 # Algorithmen und Komplexität
 
-Material, welches im Rahmen des Moduls **[Algorithmen und Komplexität](https://web1.hszg.de/modulkatalog/index.php?mid=3532&uid=11&uidaus=11&uid1=11&start=0&activTopic=4&activNav=5&letter=w&kennz=ausgabe&y=1)** an der Hochschule Zittau/Görlitz verwendet wird.
+Es handelt sich um Material, welches im Modul **[Algorithmen und Komplexität](https://web1.hszg.de/modulkatalog/index.php?mid=3532&uid=11&uidaus=11&uid1=11&start=0&activTopic=4&activNav=5&letter=w&kennz=ausgabe&y=1)** verwendet wird.
 
-Dieses Modul soll in die Entwicklung und Analyse von Algorithmen einführen. Zudem lernen Sie wichtige Datenstrukturen kennen, die für das Lösen von algorithmischen Problemen wichtig sind.
+Dieses Modul soll in die Entwicklung und Analyse von Algorithmen einführen. Zudem lernen Sie wichtige Datenstrukturen kennen, die für das Lösen von algorithmischen Problemen wichtig sind. 
 
-Es gibt 13 Kapitel. Zu jedem gibt es ein Jupyter Notebook, bei welchem benötigte theoretische Grundlagen erläutert und Beispiele in Form von praktischen Algorithmen und Datenstrukturen gezeigt und implementiert werden. Haben Sie sich durch ein Kapitel durchgearbeitet, so stehen Übungsaufgaben bereit, die Sie lösen und anschließend mit den Musterlösungen abgleichen können.
+Für alle 14 Kapitel, gibt es je ein JupyterNotebook, mit dem benötigte theoretische Grundlagen erläutert und Beispiele in Form von praktischen Algorithmen und Datenstrukturen gezeigt und implementiert werden. Haben Sie sich durch ein Kapitel durchgearbeitet, so stehen Übungsaufgaben bereit, die Sie lösen und anschließend mit den Musterlösungen vergleichen können.
+
+Die Notebooks wurden von zwei sehr guten Studierenden (Herrn Weiß, Bachelorstudent, und Herrn Zücker, Masterstudent) auch auf der Basis vorhandener Materialien entworfen und anschließend von Prof. Wagenknecht überarbeitet. Uns war es sehr wichtig, dass "die Sprache der Studierenden" verwendet wird, um einen attraktiveren Zugang zu den Inhalten zu den mathematisch-algorithmischen Inhalten zu gewährleisten.
 
 # Installation
 

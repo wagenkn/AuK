@@ -70,5 +70,5 @@ jupyter notebook
 - Klick auf 'Launch' unter Jupyter Notebook
 
 
-Der Jupyter Server ist nun gestartet und kann im Browser über **http://localhost:8888** aufgerufen werden.
+Der Jupyter Server läuft nun lokal unter http://localhost:8888/...  
 

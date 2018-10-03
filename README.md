@@ -17,36 +17,33 @@ Für alle 14 Kapitel, gibt es je ein JupyterNotebook, mit dem benötigte theoret
 
 Die Notebooks wurden von zwei Studierenden (Herrn Weiß, Bachelorstudent, und Herrn Zücker, Masterstudent) mit sehr guten Studienleistungen auch auf der Basis vorhandener Materialien entworfen und anschließend von Prof. Wagenknecht überarbeitet. Uns war es sehr wichtig, dass "die Sprache der Studierenden" verwendet wird, um einen attraktiveren Zugang zu den mathematisch-algorithmischen Inhalten zu gewährleisten.
 
-# Installation
+<!-- # Installation -->
 
-### Repository Checkout
+ <!-- ### Repository Checkout
 
 ```
 git clone https://github.com/hszg-algodat/algorithmen-und-komplexitaet
 ```
+-->
+
+### JupyterNotebooks herunterladen
+
+Laden Sie die komplette Zip-Datei herunter und expandieren Sie sie in Ihr lokales Verzeichnis ....  
+
 
 ### Anaconda Installation
 
 Es ist empfehlenswert Jupyter zusammen mit der [Anaconda Distribution](https://www.anaconda.com/download/) zu 
-installieren, da es außer Python selbst und Jupyter noch weitere wichtige Pakete zum Wissenschaftlichen Rechen, wie 
+installieren, da es außer Python selbst und Jupyter noch weitere wichtige Pakete zum wissenschaftlichen Rechnen, wie 
 [NumPy](http://www.numpy.org/) oder [Pandas](https://pandas.pydata.org/), beinhaltet.
 
-Der Installer für Anaconda kann **[hier](https://www.anaconda.com/download/)** heruntergeladen werden.
-
-Nach erfolgreicher Installation von Anaconda ist Jupyter installiert!
+Nach erfolgreicher Installation von Anaconda steht auch Jupyter bereit!
 
 ### Starten von Jupyter
 
 #### Windows
 
-- Windows Suche: Anaconda Prompt
-- Starten von Anaconda Prompt
-- In das Verzeichnis, wo sich das Repository mit den Jupyter Notebooks befindet, navigieren 
-
-Befehl in Anaconda Prompt:
-```
-jupyter notebook
-```
+Starten Sie Jupyter Notebook im Anaconda-Unterverzeichnis aus der App-Liste. Navigieren Sie in das Verzeichnis, in das Sie die vorbereiten Notebooks gespeichert haben.
 
 #### Linux
 

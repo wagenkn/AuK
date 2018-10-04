@@ -39,7 +39,9 @@ Es ist empfehlenswert Jupyter zusammen mit der [Anaconda Distribution](https://w
 installieren, da sie außer Python selbst und Jupyter noch weitere wichtige Pakete zum wissenschaftlichen Rechnen, wie 
 [NumPy](http://www.numpy.org/) oder [Pandas](https://pandas.pydata.org/), beinhaltet.
 
-Haben Sie etwas Geduld: Der Installationsvorgang kann relativ lange (< 15 min.) dauern. Nach erfolgreicher Installation von Anaconda steht auch Jupyter bereit!
+Haben Sie etwas Geduld: Der Installationsvorgang kann relativ lange (< 15 min.) dauern. Wenn Ihr Laptop nicht mehr so ganz leistungsstark ist, können Sie alternativ [Miniconda](https://conda.io/miniconda.html) verwenden.
+
+Nach erfolgreicher Installation von Anaconda steht auch Jupyter bereit!
 
 ### Starten von Jupyter
 

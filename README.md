@@ -10,21 +10,23 @@
 
 # Algorithmen und Komplexität
 
+## Beschreibung
+
 Dieses Material wird im Modul **[Algorithmen und Komplexität](https://web1.hszg.de/modulkatalog/index.php?mid=3532&uid=11&uidaus=11&uid1=11&start=0&activTopic=4&activNav=5&letter=w&kennz=ausgabe&y=1)** verwendet. 
 
 Dieses Modul soll in die Entwicklung und Analyse von Algorithmen einführen. Zudem lernen Sie wichtige Datenstrukturen kennen, die für das Lösen von algorithmischen Problemen relevant sind. 
 
-Für alles Kapitel, gibt es je ein JupyterNotebook, mit dem benötigte theoretische Grundlagen erläutert und Beispiele in Form von praktischen Algorithmen und Datenstrukturen gezeigt und mit editierbaren Python-Programmen implementiert werden. Haben Sie sich durch ein Kapitel durchgearbeitet, so stehen Übungsaufgaben bereit, die Sie lösen und anschließend mit den Musterlösungen vergleichen können.
+Für alle Kapitel gibt es je ein JupyterNotebook, mit dem benötigte theoretische Grundlagen erläutert und Beispiele in Form grundlegender Algorithmen und passender Datenstrukturen gezeigt und mit editierbaren Python-Programmen implementiert werden. Haben Sie sich durch ein Kapitel hindurch gearbeitet, so stehen Übungsaufgaben bereit, die Sie lösen und anschließend mit den Musterlösungen vergleichen können.
 
-Zur Erarbeitung und Erprobung der Notebooks haben die Herren D. Weiß und R. Zücker maßgeblich beigetragen. Uns war es sehr wichtig,  "die Sprache der Studierenden" zu treffen, um einen attraktiven Zugang zu den mathematisch-algorithmischen Inhalten zu ermöglichen.
+Zur Erarbeitung und Erprobung der JupyterNotebooks haben die Herren D. Weiß und R. Zücker maßgeblich beigetragen. Uns war es sehr wichtig,  "die Sprache der Studierenden" zu treffen, um einen attraktiveren Zugang zu den mathematisch-algorithmischen Inhalten zu finden.
 
 ## Technische Voraussetzungen
 
-Zur Nutzung der JupyterNotbooks ist eine lokale Installation von Anaconda auf Ihrem Laptop notwendig. Die JupyterNotebooks laden Sie entweder als ZIP-Datei herunter oder Sie installieren git (Versionskontrollsystem) und clonen das gesamte Repository in einem Schritt. Letzteres ist zur begleitenden Aktualisierung der Materialien von Vorteil, aber nicht Bedingung.
-
 ### JupyterNotebooks herunterladen
 
-Laden Sie die komplette [Zip-Datei](https://github.com/wagenkn/AuK/archive/master.zip) herunter und expandieren Sie sie in ein geeignetes lokales Verzeichnis.
+Zur Nutzung der JupyterNotebooks ist eine *lokale* Installation von Anaconda auf Ihrem Laptop notwendig. Die hier bereitgestellten JupyterNotebooks laden Sie entweder als ZIP-Datei herunter oder Sie installieren git (verteiltes Versionskontrollsystem) und clonen das gesamte Repository in einem Schritt. Letzteres ist zur begleitenden Aktualisierung der Materialien von Vorteil, aber nicht Bedingung.
+
+Beispiel für ZIP-download: Laden Sie die komplette [Zip-Datei](https://github.com/wagenkn/AuK/archive/master.zip) herunter und expandieren Sie sie in ein geeignetes lokales Verzeichnis.
 
 ### Anaconda Installation
 

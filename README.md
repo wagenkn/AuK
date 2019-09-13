@@ -1,5 +1,6 @@
 
-<img align="left" width="300" src="http://unternehmerverband-auv.de/fileadmin/user_upload/csm_HZG_Logo_100_RGB_11eefdbf4a.png"/>
+<img align="left" width="300" src="https://www.hszg.de/typo3conf/ext/pt_hszg_site/Resources/Public/Images/HZG_Logo.svg"/>
+<!-- alternativ: http://unternehmerverband-auv.de/fileadmin/user_upload/csm_HZG_Logo_100_RGB_11eefdbf4a.png -->
 <img align="right" width="300" src="http://www.hszg.de/fileadmin/template/HSZG/imgs/logo/Logo-F-EI.gif"/>
 
 <br>
@@ -9,29 +10,21 @@
 
 # Algorithmen und Komplexität
 
-Es handelt sich um Material, welches im Modul **[Algorithmen und Komplexität](https://web1.hszg.de/modulkatalog/index.php?mid=3532&uid=11&uidaus=11&uid1=11&start=0&activTopic=4&activNav=5&letter=w&kennz=ausgabe&y=1)** verwendet wird.
+Dieses Material wird im Modul **[Algorithmen und Komplexität](https://web1.hszg.de/modulkatalog/index.php?mid=3532&uid=11&uidaus=11&uid1=11&start=0&activTopic=4&activNav=5&letter=w&kennz=ausgabe&y=1)** verwendet. 
 
-Dieses Modul soll in die Entwicklung und Analyse von Algorithmen einführen. Zudem lernen Sie wichtige Datenstrukturen kennen, die für das Lösen von algorithmischen Problemen wichtig sind. 
+Dieses Modul soll in die Entwicklung und Analyse von Algorithmen einführen. Zudem lernen Sie wichtige Datenstrukturen kennen, die für das Lösen von algorithmischen Problemen relevant sind. 
 
-Für alle 14 Kapitel, gibt es je ein JupyterNotebook, mit dem benötigte theoretische Grundlagen erläutert und Beispiele in Form von praktischen Algorithmen und Datenstrukturen gezeigt und implementiert werden. Haben Sie sich durch ein Kapitel durchgearbeitet, so stehen Übungsaufgaben bereit, die Sie lösen und anschließend mit den Musterlösungen vergleichen können.
+Für alles Kapitel, gibt es je ein JupyterNotebook, mit dem benötigte theoretische Grundlagen erläutert und Beispiele in Form von praktischen Algorithmen und Datenstrukturen gezeigt und mit editierbaren Python-Programmen implementiert werden. Haben Sie sich durch ein Kapitel durchgearbeitet, so stehen Übungsaufgaben bereit, die Sie lösen und anschließend mit den Musterlösungen vergleichen können.
 
-Die Notebooks wurden von zwei Studierenden (Herrn Weiß, Bachelorstudent, und Herrn Zücker, Masterstudent) mit sehr guten Studienleistungen auch auf der Basis vorhandener Materialien entworfen und anschließend von Prof. Wagenknecht überarbeitet. Uns war es sehr wichtig, dass "die Sprache der Studierenden" verwendet wird, um einen attraktiveren Zugang zu den mathematisch-algorithmischen Inhalten zu gewährleisten.
+Zur Erarbeitung und Erprobung der Notebooks haben die Herren D. Weiß und R. Zücker maßgeblich beigetragen. Uns war es sehr wichtig,  "die Sprache der Studierenden" zu treffen, um einen attraktiven Zugang zu den mathematisch-algorithmischen Inhalten zu ermöglichen.
 
-Beachten Sie, dass es zu Verfälschungen der Interpretation der JupyterNotebooks in Github kommen kann. Die gewünschte Qualität stellt sich erst ein, wenn Sie die Notebooks unter Jupyter lokal verwenden und ggf. bearbeiten.
+## Technische Voraussetzungen
 
-<!-- # Installation -->
-
- <!-- ### Repository Checkout
-
-```
-git clone https://github.com/hszg-algodat/algorithmen-und-komplexitaet
-```
--->
+Zur Nutzung der JupyterNotbooks ist eine lokale Installation von Anaconda auf Ihrem Laptop notwendig. Die JupyterNotebooks laden Sie entweder als ZIP-Datei herunter oder Sie installieren git (Versionskontrollsystem) und clonen das gesamte Repository in einem Schritt. Letzteres ist zur begleitenden Aktualisierung der Materialien von Vorteil, aber nicht Bedingung.
 
 ### JupyterNotebooks herunterladen
 
 Laden Sie die komplette [Zip-Datei](https://github.com/wagenkn/AuK/archive/master.zip) herunter und expandieren Sie sie in ein geeignetes lokales Verzeichnis.
-
 
 ### Anaconda Installation
 
@@ -42,6 +35,15 @@ installieren, da sie außer Python selbst und Jupyter noch weitere wichtige Pake
 Haben Sie etwas Geduld: Der Installationsvorgang kann relativ lange (< 15 min.) dauern. Wenn Ihr Laptop nicht mehr so ganz leistungsstark ist, können Sie alternativ [Miniconda](https://conda.io/miniconda.html) verwenden.
 
 Nach erfolgreicher Installation von Anaconda steht auch Jupyter bereit!
+
+#### Ggf.(!) das Arbeitsverzeichnis von jupyter verändern:
+1. Anaconda prompt: jupyter notebook --generate-config
+2. In der (damit angelegten) Datei  C:\Users\User\.jupyter\jupyter_notebook_config.py den folgenden Eintrag anpassen:
+#c.NotebookApp.notebook_dir = 'D:/Repositories/'
+Wichtig (Windows): Angabe des Pfades mit ' und /, wie im Beispiel
+3. # am Anfang entfernen und speichern
+4. AnacondaNavigator starten
+5. Jupyter aufrufen
 
 ### Starten von Jupyter
 

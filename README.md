@@ -24,9 +24,7 @@ Zur Erarbeitung und Erprobung der JupyterNotebooks haben die Herren D. Weiß und
 
 ### JupyterNotebooks herunterladen
 
-Zur Nutzung der JupyterNotebooks ist eine *lokale* Installation von Anaconda auf Ihrem Laptop notwendig. Die hier bereitgestellten JupyterNotebooks laden Sie entweder als ZIP-Datei herunter oder Sie installieren git (verteiltes Versionskontrollsystem) und clonen das gesamte Repository in einem Schritt. Letzteres ist zur begleitenden Aktualisierung der Materialien von Vorteil, aber nicht Bedingung.
-
-Beispiel für ZIP-download: Laden Sie die komplette [Zip-Datei](https://github.com/wagenkn/AuK/archive/master.zip) herunter und expandieren Sie sie in ein geeignetes lokales Verzeichnis.
+Zur Nutzung der JupyterNotebooks ist eine *lokale* Installation von Anaconda auf Ihrem Laptop notwendig. Die hier bereitgestellten JupyterNotebooks laden Sie entweder als ZIP-Datei herunter und expandieren sie in ein geeignetes lokales Verzeichnis. Oder Sie installieren git (verteiltes Versionskontrollsystem) und clonen das gesamte Repository in einem Schritt. Letzteres ist zur begleitenden Aktualisierung der Materialien von Vorteil, aber nicht Bedingung. Grüner Knopf oben: clone or download. 
 
 ### Anaconda Installation
 

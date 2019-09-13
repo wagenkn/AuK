@@ -12,7 +12,7 @@
 
 ## Beschreibung
 
-Dieses Material wird im Modul **[Algorithmen und Komplexität](https://web1.hszg.de/modulkatalog/index.php?mid=3532&uid=11&uidaus=11&uid1=11&start=0&activTopic=4&activNav=5&letter=w&kennz=ausgabe&y=1)** verwendet. 
+Dieses Material wird im Modul **[Algorithmen und Komplexität](https://web1.hszg.de/modulkatalog/index.php?mid=3532&uid=11&uidaus=11&uid1=11&start=0&activTopic=4&activNav=5&letter=w&kennz=ausgabe&y=1)** (Prof.Dr.Christian Wagenknecht) verwendet. 
 
 Dieses Modul soll in die Entwicklung und Analyse von Algorithmen einführen. Zudem lernen Sie wichtige Datenstrukturen kennen, die für das Lösen von algorithmischen Problemen relevant sind. 
 
@@ -39,9 +39,9 @@ Nach erfolgreicher Installation von Anaconda steht auch Jupyter bereit!
 #### Ggf.(!) das Arbeitsverzeichnis von jupyter verändern:
 1. Anaconda prompt: jupyter notebook --generate-config
 2. In der (damit angelegten) Datei  C:\Users\User\.jupyter\jupyter_notebook_config.py den folgenden Eintrag anpassen:
-#c.NotebookApp.notebook_dir = 'D:/Repositories/'
+    #c.NotebookApp.notebook_dir = 'D:/Repositories/'
 Wichtig (Windows): Angabe des Pfades mit ' und /, wie im Beispiel
-3. # am Anfang entfernen und speichern
+3. `#` am Anfang entfernen und speichern
 4. AnacondaNavigator starten
 5. Jupyter aufrufen
 

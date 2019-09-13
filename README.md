@@ -12,7 +12,7 @@
 
 ## Beschreibung
 
-Dieses Material wird im Modul **[Algorithmen und Komplexität](https://web1.hszg.de/modulkatalog/index.php?mid=3532&uid=11&uidaus=11&uid1=11&start=0&activTopic=4&activNav=5&letter=w&kennz=ausgabe&y=1)** (Prof.Dr.Christian Wagenknecht) verwendet. 
+Dieses Material wird im Modul **[Algorithmen und Komplexität](https://web1.hszg.de/modulkatalog/index.php?mid=3532&uid=11&uidaus=11&uid1=11&start=0&activTopic=4&activNav=5&letter=w&kennz=ausgabe&y=1)** ([Prof.Dr.Christian Wagenknecht](https://www.hszg.de/f-ei/fakultaet/professoren/christian-wagenknecht/person.html)) verwendet. 
 
 Dieses Modul soll in die Entwicklung und Analyse von Algorithmen einführen. Zudem lernen Sie wichtige Datenstrukturen kennen, die für das Lösen von algorithmischen Problemen relevant sind. 
 
